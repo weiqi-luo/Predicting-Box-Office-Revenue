@@ -1,3 +1,7 @@
+# Predicting opening-weekend box office sales
+
+Predicting opening-weekend box office sales based on movie trailers and metadata
+
 ## Group Member and Task Split
 
 |                       | team management | frontend | Predictor based on video trailer | Predictor based on metadata | data collection |
